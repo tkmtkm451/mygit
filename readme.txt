@@ -13,3 +13,6 @@ git push -u oragin master //将项目推送到远程 第一次提交将分支推
 git add 
 git commit -m "注释"
 git push oragin master
+
+远程-本地
+git pull
